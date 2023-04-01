@@ -1,4 +1,4 @@
-# face-detection
+# Face Detection using MTCNN
 This GitHub repository contains an implementation of a face detection algorithm using MTCNN (Multi-Task Cascaded Convolutional Networks). MTCNN is a state-of-the-art deep learning-based face detection algorithm that is able to accurately detect faces even in challenging environments, such as low light, occlusions, and various angles.
 
 ## Content 
